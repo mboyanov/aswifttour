@@ -1,6 +1,6 @@
 # A Swift Tour - Jupyter Notebook Edition
 
-This project provides jupyter notebook versions of the introductory resources ["A Swift Tour"](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) for the Swift programming language. The referenced tutorial suggests using `a playground in Xcode`. This is a bit tricky for Linux users, so I converted the playground to Jupyter Notebooks. The details behind the conversion are available in the ["base notebook"](https://github.com/mboyanov/aswifttour/blob/master/A%20swift%20tour%20-%20base.ipynb).
+This project provides jupyter notebook versions of the introductory resources ["A Swift Tour"](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) for the Swift programming language. The referenced tutorial suggests using `a playground in Xcode`. This is a bit tricky for Linux users, so I converted the playground to Jupyter Notebooks. To make it the most impractical, the conversion was achieved via Swift. The details behind the conversion are available in the ["base notebook"](https://github.com/mboyanov/aswifttour/blob/master/A%20swift%20tour%20-%20base.ipynb).
 
 Otherwise, find the notebooks here:
 
